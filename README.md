@@ -2,6 +2,8 @@
 
 Um aplicativo de musica para treinar meus conhecimentos.
 
+![alt text](https://github.com/natancavalcant/AppMusic/blob/master/assets/images/appmusic.png/raw?true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
