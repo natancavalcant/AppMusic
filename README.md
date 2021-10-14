@@ -2,7 +2,7 @@
 
 Um aplicativo de musica para treinar meus conhecimentos.
 
-# preview
+## preview
 ![alt text](https://github.com/natancavalcant/AppMusic/blob/master/assets/images/appmusic.png?raw=true)
 
 ## Getting Started
