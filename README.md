@@ -1,6 +1,6 @@
 # appmusic
 
-A new Flutter project.
+Um aplicativo de musica para treinar meus conhecimentos.
 
 ## Getting Started
 
